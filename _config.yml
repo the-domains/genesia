@@ -1,0 +1,28 @@
+name: genesia
+favicon: null
+layout_spectrum: 0.2508725905790925
+typography_spectrum: 0.22266928106546402
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5612148342188448
+  lightness: 0.5513966926373541
+  saturation: 0.7449660568963736
+  rhythmicContrast: 0.8634323687292635
+purpose: []
